@@ -17,6 +17,9 @@ public class dfgsd : MonoBehaviour
     void Update()
     {
         
-       TonyBhau.SetActive(true);
+       TonyBhau.SetActive(true); 
+        //////
+        ///
+        ////////           ;-)
     }
 }
