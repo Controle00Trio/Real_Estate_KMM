@@ -5,6 +5,7 @@ using UnityEngine;
 public class dfgsd : MonoBehaviour
 {
     // Start is called before the first frame update
+    public AudioSource AS;
     void Start()
     {
         //Anthony Bhai JindaBad
