@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class dfgsd : MonoBehaviour
 {
+    public GameObject TonyBhau;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,5 +16,6 @@ public class dfgsd : MonoBehaviour
     void Update()
     {
         
+       TonyBhau.SetActive(true);
     }
 }
