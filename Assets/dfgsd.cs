@@ -6,6 +6,7 @@ public class dfgsd : MonoBehaviour
 {
     public GameObject TonyBhau;
     // Start is called before the first frame update
+    public AudioSource AS;
     void Start()
     {
         //Anthony Bhai JindaBad
